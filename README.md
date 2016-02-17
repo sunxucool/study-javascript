@@ -1,4 +1,4 @@
 study-javascript
 ================
 
-myself study
+myself study...
